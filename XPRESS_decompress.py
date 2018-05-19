@@ -101,4 +101,3 @@ def decompress(data):
             print ('Decompressed with a different size than original!')
 
         return bytearray(ntDecompressed)
-
